@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:02:39	101/101	---M-Z	200	added ('OK')	text/plain	etag:%2266645381eb92ae8ba1af721628eceeff%22	https://reseachrepositiory.framer.ai/robots.txt		(from )
+16:02:39	105224/105224	---M-Z	200	added ('OK')	text/html	etag:%228d16413d882ff1a96da2518913b3b439%22	https://reseachrepositiory.framer.ai/	C:/Users/BIT/Desktop/project/RESEARCH%20REPOSITORY/index-2.html	(from )
